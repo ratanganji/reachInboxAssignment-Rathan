@@ -38,7 +38,7 @@ Video link for demo of this Application - [Link](https://www.loom.com/share/51a8
 ## Installation setup
 1. Clone the repository to your local machine
 ```bash
-git clone https://github.com/shraddha-gawde/reachInbox-assignment.git
+git clone https://github.com/ratanganji/reachInboxAssignment-Rathan.git
 ```
 2. Navigate to the root directory of the project directory :
 ```bash 
